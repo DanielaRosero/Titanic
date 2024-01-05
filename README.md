@@ -15,12 +15,9 @@ El objetivo principal de este análisis es identificar patrones clave que puedan
     Librerías de Python: Se han utilizado diversas librerías como Pandas para la manipulación de datos, Seaborn y Plotly.express para la visualización de datos, y Scikit-learn para el modelado predictivo.
     Jupyter Notebook: Los análisis y visualizaciones se presentan en un Jupyter Notebook para facilitar la comprensión y la reproducción del análisis.
 
-Estructura del Repositorio
+## Estructura del Repositorio
 
-    titanic.ipynb: Jupyter Notebook que contiene el análisis detallado.
-    data/: Carpeta que contiene el conjunto de datos utilizado.
+    Titanic_analysis.ipynb: Jupyter Notebook que contiene el análisis detallado.
+    titanic.cvs: Carpeta que contiene el conjunto de datos utilizado.
+    requirements.txt: documento de texto con todas las bibliotecas empleadas
 
-Cómo Utilizar
-
-Para explorar el análisis, simplemente clone el repositorio y abra el archivo titanic_analysis.ipynb en un entorno que soporte Jupyter Notebooks, como JupyterLab o VSCode.
- 
