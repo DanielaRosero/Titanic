@@ -16,7 +16,7 @@ El objetivo principal de este análisis es identificar patrones clave que puedan
 
 ## Estructura del Repositorio
 
-    Titanic_analysis.ipynb: Jupyter Notebook que contiene el análisis detallado.
-    titanic.cvs: Carpeta que contiene el conjunto de datos utilizado.
-    requirements.txt: documento de texto con todas las bibliotecas empleadas
+- Titanic_analysis.ipynb: Jupyter Notebook que contiene el análisis detallado.
+- titanic.cvs: Carpeta que contiene el conjunto de datos utilizado.
+- requirements.txt: documento de texto con todas las bibliotecas empleadas
 
