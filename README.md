@@ -6,14 +6,13 @@ Objetivos
 
 El objetivo principal de este análisis es identificar patrones clave que puedan explicar las tasas de supervivencia en el Titanic. Este proyecto busca responder preguntas como:
 
-    * ¿Cuáles fueron los factores principales que contribuyeron a la supervivencia de los pasajeros?
-    * ¿Cómo influyeron el género, la edad y la clase del pasajero en las posibilidades de sobrevivir?
+¿Cuáles fueron los factores principales que contribuyeron a la supervivencia de los pasajeros?
+¿Cómo influyeron el género, la edad y la clase del pasajero en las posibilidades de sobrevivir?
 
 ## Herramientas y Tecnologías
-
-    Python: El análisis se ha realizado utilizando Python, un lenguaje de programación popular para el análisis de datos.
-    Librerías de Python: Se han utilizado diversas librerías como Pandas para la manipulación de datos, Seaborn y Plotly.express para la visualización de datos, y Scikit-learn para el modelado predictivo.
-    Jupyter Notebook: Los análisis y visualizaciones se presentan en un Jupyter Notebook para facilitar la comprensión y la reproducción del análisis.
+- Python: El análisis se ha realizado utilizando Python, un lenguaje de programación popular para el análisis de datos.
+- Librerías de Python: Se han utilizado diversas librerías como Pandas para la manipulación de datos, Seaborn y Plotly.express para la visualización de datos, y Scikit-learn para el modelado predictivo.
+- Jupyter Notebook: Los análisis y visualizaciones se presentan en un Jupyter Notebook para facilitar la comprensión y la reproducción del análisis.
 
 ## Estructura del Repositorio
 
