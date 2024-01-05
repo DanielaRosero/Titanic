@@ -2,12 +2,13 @@
 ## Descripción
 
 Este repositorio contiene un análisis detallado del famoso conjunto de datos del Titanic. El RMS Titanic, conocido por su trágico hundimiento en 1912, llevaba a bordo pasajeros de diversas clases sociales. Este proyecto explora los factores que pudieron haber influido en la supervivencia de los pasajeros durante el desastre.
-Objetivos
+
+## Objetivos
 
 El objetivo principal de este análisis es identificar patrones clave que puedan explicar las tasas de supervivencia en el Titanic. Este proyecto busca responder preguntas como:
 
-¿Cuáles fueron los factores principales que contribuyeron a la supervivencia de los pasajeros?
-¿Cómo influyeron el género, la edad y la clase del pasajero en las posibilidades de sobrevivir?
+- ¿Cuáles fueron los factores principales que contribuyeron a la supervivencia de los pasajeros?
+- ¿Cómo influyeron el género, la edad y la clase del pasajero en las posibilidades de sobrevivir?
 
 ## Herramientas y Tecnologías
 - Python: El análisis se ha realizado utilizando Python, un lenguaje de programación popular para el análisis de datos.
