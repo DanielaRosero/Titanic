@@ -5,7 +5,7 @@ Este repositorio contiene un análisis detallado del famoso conjunto de datos de
 
 ## Objetivos
 
-El objetivo principal de este análisis es identificar patrones clave que puedan explicar las tasas de supervivencia en el Titanic. Este proyecto busca responder preguntas como:
+El objetivo principal de este análisis es identificar patrones clave que puedan explicar las tasas de supervivencia en el Titanic y crear un modelo capaz de predecir el estado de supervivencia en función de variables como la edad, género, clase, puerto de embarque y tarifa. Este proyecto busca responder preguntas como:
 
 - ¿Cuáles fueron los factores principales que contribuyeron a la supervivencia de los pasajeros?
 - ¿Cómo influyeron el género, la edad y la clase del pasajero en las posibilidades de sobrevivir?
@@ -20,5 +20,8 @@ El objetivo principal de este análisis es identificar patrones clave que puedan
 - Titanic_analysis.ipynb: Jupyter Notebook que contiene el análisis detallado.
 - Conclusiones.ipynb: Jupyter Notebook que contiene las conclusiones generales del análisis.
 - titanic.cvs: Carpeta que contiene el conjunto de datos utilizado.
+- Titanic_modificado: es el csv obtenido a partir del anterior con las modificaciones aplicadas durante el análisis.
 - requirements.txt: documento de texto con todas las bibliotecas empleadas
+- AppTitanic: es una aplicación sobre el proyecto creado con streamlit
+- modeloRFC_Titanic.pkl: es el modelo de predicción elegido
 
